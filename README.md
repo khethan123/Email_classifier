@@ -4,4 +4,5 @@
   2.  the contents of the email
 
 The `subject` part basically has a dataframe of 2 columns (category and subject) and it is not upto the standard since it's recall was too low.
+<br>
 The `contents` part on the other hand proved to be quite useful.
